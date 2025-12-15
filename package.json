@@ -9,9 +9,11 @@
     "export": "next build && next export"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^5.9.4",
     "next": "^16.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@netlify/plugin-nextjs": "^5.15.1"
   }
 }
