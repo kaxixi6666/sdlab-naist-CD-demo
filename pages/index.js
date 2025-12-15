@@ -22,8 +22,8 @@ export default function Home() {
            <th>日時</th>
          </tr>
          <tr>
-           <td>柏 祐太郎</td>
-           <td>2025/2/25</td>
+           <td>夏 思思</td>
+           <td>2025/12/15</td>
          </tr>
        </table>      
 </main>
